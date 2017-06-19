@@ -161,41 +161,41 @@ image: /assets/images/cards/beginner.png
   </p>
 </aside>
 
-Sometimes, people avoid writing a README because they feel like the project is unfinished, or they don't want contributions. These are all very good reasons to write one.
+有时，人们会因为觉得项目未完成而不愿意撰写 README，或者他们不希望做出贡献。这些都是写一个 README 的很好的理由。
 
-For more inspiration, try using @18F's ["Making READMEs Readable"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) or @PurpleBooth's [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) to write a complete README.
+想要获得更多灵感，请尝试使用 @18F 的 ["让 README 可读"](https://pages.18f.gov/open-source-guide/making-readmes-readable/) 或者 @PurpleBooth 的 [README 模板](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) 来撰写一个完整的 README。
 
-When you include a README file in the root directory, GitHub will automatically display it on the repository homepage.
+当你在根目录中包含一个 README 文件时，GitHub 会自动将其显示在存储库的主页上。
 
-### Writing your contributing guidelines
+### 编写你的贡献指南
 
-A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
+贡献文件 (CONTRIBUTING file) 告诉你的受众如何参与你的项目. 例如，你可以包括一下信息:
 
-* How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* How to suggest a new feature
-* How to set up your environment and run tests
+* 如何提交错误报告（尝试使用[issue 和 pull request 模板](https://github.com/blog/2111-issue-and-pull-request-templates)）
+* 如何建议一个新功能
+* 如何配置你的环境和运行测试
 
-In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
+除了技术细节， 贡献文件也是一个供你传达对贡献期待的机会， 例如：
 
-* The types of contributions you're looking for
-* Your roadmap or vision for the project
-* How contributors should (or should not) get in touch with you
+* 你在寻求的贡献类型
+* 你项目的路线图或者版本
+* 贡献者应该（或者不应该）如何与你取得联系
 
-Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
+温柔友好的逾期和向贡献者们提供具体的建议（例如写文档或者搭建一个网页）能够有效地使新人感到受欢迎并乐于参与其中。
 
-For example, [Active Admin](https://github.com/activeadmin/activeadmin/) starts [its contributing guide](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) with:
+例如，[Active Admin](https://github.com/activeadmin/activeadmin/) 以这样的方式开始[它的贡献指南](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)：
 
-> First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
+> 首先， 非常感谢你考虑为 Active Admin 贡献帮助。正式你这样的人们使得 Active Admin 成为了如此优秀的工具。
 
-In the earliest stages of your project, your CONTRIBUTING file can be simple. You should always explain how to report bugs or file issues, and any technical requirements (like tests) to make a contribution.
+在你项目开始的初期，你的贡献文件可以很简单。你应该经常解释如何提交错误和文件问题，以及关于如何作出贡献的技术问题（例如测试）。
 
-Over time, you might add other frequently asked questions to your CONTRIBUTING file. Writing down this information means fewer people will ask you the same questions over and over again.
+随着时间的推移，你硬弓增加其他常见问题到你的贡献文件中去。写下这些信息意味着问你相同问题的人会越来越少。
 
-For more help with writing your CONTRIBUTING file, check out @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) or @mozilla's ["How to Build a CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/).
+想要获得更多有关编写贡献文件的方式，请查阅 @nayafia 的 [贡献指南模板](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 或者 @mozilla 的 [“如何构建 CONTRIBUTION.md”](http://mozillascience.github.io/working-open-workshop/contributing/)。
 
-Link to your CONTRIBUTING file from your README, so more people see it. If you [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub will automatically link to your file when a contributor creates an issue or opens a pull request.
+来你的 README 中链接你的 CONTRIBUTING，这样更多人就能看到他。如果你[在你的项目中放入了 CONTRIBUTING 文件](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)，当一个贡献者创建 issue 或者开启一个 pull request 时，GitHub 会自动链接你的文件。
 
-![contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![贡献指南](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
 ### Establishing a code of conduct
 
