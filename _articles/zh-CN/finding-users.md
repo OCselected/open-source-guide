@@ -28,7 +28,7 @@ image: /assets/images/cards/finding.png
 
 举个例子，[@robb](https://github.com/robb)用代码实例来清晰的阐述为什么他的项目[Cartography](https://github.com/robb/Cartography)是有用的。
 
-![cartography readme](/assets/images/finding-users/cartography.jpg)
+![cartography readme](https://opensource.guide/assets/images/finding-users/cartography.jpg)
 
 如果你想深入了解如何挖掘项目的“卖点”，看一下Mozilla的["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/)，练习如何建立用户的形象。
 
@@ -43,7 +43,7 @@ image: /assets/images/cards/finding.png
 
 通过引导他们到一个唯一的地址来帮助人们发现和记住你的项目。
 
-**要有一个推广的主阵地。**一个Twitter账号，Github链接，或者IRC频道是引导人们查看你们项目的一个简单的方式。这些方式也给你日益增长的社区一个讨论的好地方。
+**要有一个推广的主阵地。** 一个Twitter账号，Github链接，或者IRC频道是引导人们查看你们项目的一个简单的方式。这些方式也给你日益增长的社区一个讨论的好地方。
 
 如果你目前还不想给你的项目搞这么多乱七八糟的东西，而且还要在有机会的时候推广你的Twitter账户和Github账户。举个例子，如果你某一个讨论会或者活动上发言要保证在你的简历或者幻灯片上包含这些信息。只有这样人们才会知道怎么找到你或者关注你的工作。
 
@@ -55,13 +55,13 @@ image: /assets/images/cards/finding.png
   </p>
 </aside>
 
-**考虑给你的项目做一个网站**一个网站可以让你的项目更加友好，而且更加容易浏览，更重要的是附上清晰的文档和教程。这也是象征着你的项目还是活跃的，这会让你的用户使用你项目的时候感觉更放心。可以用一些例子告诉人们如何使用的项目。
+**考虑给你的项目做一个网站** 一个网站可以让你的项目更加友好，而且更加容易浏览，更重要的是附上清晰的文档和教程。这也是象征着你的项目还是活跃的，这会让你的用户使用你项目的时候感觉更放心。可以用一些例子告诉人们如何使用的项目。
 
 [@adrianholovaty](https://news.ycombinator.com/item?id=7531689), Django的协作者说，我们给Django做的网站可以说是“在早期开发Django的时候做的最好的一件事情了”。
 
-如果你的项目是托管在GitHub上的，你可以用[GitHub Pages](https://pages.github.com/)简单的创建一个网站。[Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) 是一些优秀的内容详尽的网站的[例子](https://github.com/showcases/github-pages-examples) 
+如果你的项目是托管在GitHub上的，你可以用[GitHub Pages](https://pages.github.com/)简单的创建一个网站。[Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) 是一些优秀的内容详尽的网站的[例子](https://github.com/showcases/github-pages-examples)
 
-![vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
+![vagrant homepage](https://opensource.guide/assets/images/finding-users/vagrant_homepage.png)
 
 现在你的项目有了“卖点”，和让人们很容易发现你项目的渠道，接下来我们谈谈如何和你的用户交流吧！
 
@@ -82,9 +82,9 @@ image: /assets/images/cards/finding.png
 
 来看看下面的一些方法吧，也许推广你的项目的时候用得着。
 
-+ **快找找有没有相关的开源项目和社区。**有时候，你不需要直接的推广你的项目。如果你的项目对使用Python的数据科学家来说是无可挑剔的，那么就去找Python数据科学的社区。等他们知道你的项目之后，很自然的就会谈论然后分享你的工作成果。
-+ **如果你项目尝试解决某些问题，那么找到会遇到这些问题的人。**想象你的项目受众会在哪些论坛，然后搜索这些论坛，回答他们的问题，然后找一个合适的实际，向他们建议使用你的项目来作为一种解决方案。
-+ **寻求反馈。**给一个可能会用到你项目的人介绍你自己和你做的工作。对哪些人会从你的项目受益要很明确。尝试完善一下下面这句话：“我觉得我的项目能够帮助A，那些尝试做B的人”。听取和回复别人的反馈，而不是简单的推广。
++ **快找找有没有相关的开源项目和社区。** 有时候，你不需要直接的推广你的项目。如果你的项目对使用Python的数据科学家来说是无可挑剔的，那么就去找Python数据科学的社区。等他们知道你的项目之后，很自然的就会谈论然后分享你的工作成果。
++ **如果你项目尝试解决某些问题，那么找到会遇到这些问题的人。** 想象你的项目受众会在哪些论坛，然后搜索这些论坛，回答他们的问题，然后找一个合适的实际，向他们建议使用你的项目来作为一种解决方案。
++ **寻求反馈。** 给一个可能会用到你项目的人介绍你自己和你做的工作。对哪些人会从你的项目受益要很明确。尝试完善一下下面这句话：“我觉得我的项目能够帮助A，那些尝试做B的人”。听取和回复别人的反馈，而不是简单的推广。
 
 一般来说，在你索取什么回报之前先把精力放在帮助别人上。因为在网上推广一个项目对任何人都是一个不难的事情，所以有很多人和坐着一样的事。告诉人们你是谁，而不是你想要什么，这样才能从众多推广者中脱颖而出。
 
@@ -94,7 +94,7 @@ image: /assets/images/cards/finding.png
 ## 到你项目受众在的地方去（线下）
 
 
-![public speaking](/assets/images/finding-users/public_speaking.jpg)
+![public speaking](https://opensource.guide/assets/images/finding-users/public_speaking.jpg)
 
 线下活动是一个推广项目流行的方式。这是一个接触某个忠实听众和建立深层次的联系的好方式，特别是如果你对到场的开发者感兴趣的话。
 
@@ -113,7 +113,7 @@ image: /assets/images/cards/finding.png
 当你在写你的演讲稿的时候，把重点放在你的听众会感兴趣而且能获取价值的事情上。保证你的语言要友好和和蔼可亲。笑一笑，深呼吸，幽默一点儿。
 
 <aside markdown="1" class="pquote">
-  <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
+  <img src="https://opensource.guide/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   当你开始写你的演讲稿的时候，不管你的主题是什么，如果你能把你的演讲当成是给别人讲故事的话，效果会更更好。
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
@@ -161,5 +161,3 @@ image: /assets/images/cards/finding.png
 ## 保持精进
 
 有时候，让人么注意你的开源项目会话费很多事件。但是关系！现在很多流行的项目都是花了很多年才有今天的活跃度。把重点放在建立声望上而不是企图一夜成名。耐心一点，一如既往的和那些可能会从中受益的人们分享你的项目。
-
-
