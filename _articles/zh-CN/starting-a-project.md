@@ -51,19 +51,19 @@ image: /assets/images/cards/beginner.png
 
 * **透明度：** 任何人都可以检查开源项目是否有错误或不一致。 透明度对[保加利亚](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 或[美国](https://sourcecode.cio.gov/)等政府，银行或医疗保健等受监管行业以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全软件都很重要。
 
-开源并不仅仅限于软件。您可以开源任何事物，从数据集到书本。查看 [GitHub Explore](https://github.com/explore) 开找找有什么是你可以开源的。
+开源并不仅仅限于软件。你可以开源任何事物，从数据集到书本。移步 [GitHub Explore](https://github.com/explore) 去找找看，有什么是你可以开源的。
 
 ### 开源是指“免费”吗？
 
 开源最大的吸引之一是它不花钱。 但是，“免费”只是开源的总体价值的一个副产品。
 
-因为[开源许可证要求](https://opensource.org/osd-annotated)任何人可以几乎出于任何目使用，修改和共享您的项目，项目本身往往是免费的。 如果该项目花钱使用，任何人也都可以合法地复制和使用免费版本。
+因为[开源许可证要求](https://opensource.org/osd-annotated)任何人可以几乎出于任何目使用，修改和共享你的项目，项目本身往往是免费的。 如果该项目花钱使用，任何人也都可以合法地复制和使用免费版本。
 
 因此，大多数开源项目是免费的，但“免费”不是开源定义的一部分。 有些方法可以通过双重许可或有限功能间接地为开源项目收费，同时仍然遵守开源的官方定义。
 
 ## 我是否应该发起我自己的开源项目?
 
-简单来说，答案是肯定的，因为无论结果如何，启动您自己的项目来了解开源的工作原理是一个好方法。
+简单来说，答案是肯定的，因为无论结果如何，启动你自己的项目来了解开源的工作原理是一个好方法。
 
 如果你从来没有创建过一个项目，你可能会担心人们会说什么，或者是否有人会注意到。 如果这听起来像你现在的状态，别担心，你并不孤独！
 
@@ -81,7 +81,7 @@ image: /assets/images/cards/beginner.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
-在某些时候，我创建了一个自己正在使用的自定义 UIAlertView，我决定将它开源。所以我修改它使其更有活力，并把它上传到了 GitHub。我还写了我的第一个文档，解释给其他开发人员如何在他们的项目中使用它。很可能没有人会去使用它，因为它是一个简单的项目，但我的贡献让我感觉很好。 
+在某些时候，我创建了一个自己正在使用的自定义 UIAlertView，我决定将它开源。所以我修改它使其更有活力，并把它上传到了 GitHub。我还写了我的第一个文档，解释给其他开发人员如何在他们的项目中使用它。很可能没有人会去使用它，因为它是一个简单的项目，但我的贡献让我感觉很好。
   <p markdown="1" class="pquote-credit">
 — @mavris, [“自学的软件开发者：为什么开源对我们那么重要”](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
@@ -97,7 +97,7 @@ image: /assets/images/cards/beginner.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1857993?v=3&s=460" class="pquote-avatar" alt="avatar">
-当你开始开源一个项目时，确保您的管理流程考虑到您项目周围社区的贡献和能力很重要。不要害怕让那些没有在你的企业中受雇的贡献者参与项目的关键部分 - 尤其如果他们是频繁的贡献者的话。
+当你开始开源一个项目时，确保你的管理流程考虑到你项目周围社区的贡献和能力很重要。不要害怕让那些没有在你的企业中受雇的贡献者参与项目的关键部分 - 尤其如果他们是频繁的贡献者的话。
   <p markdown="1" class="pquote-credit">
 — @captainsafia, [“所以你想开源一个项目，是吗？”](https://writing.safia.rocks/2016/12/06/so-you-wanna-open-source-a-project-eh/)
   </p>
@@ -115,49 +115,49 @@ image: /assets/images/cards/beginner.png
 
 一般来说，如果你乐意于他人对你工作的查看和反馈，你就应该开源你的项目。
 
-无论您决定开展项目的哪个阶段，每个项目都应包括以下文档：
+无论你决定开展项目的哪个阶段，每个项目都应包括以下文档：
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+* [开源许可证](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](../code-of-conduct/)
+* [贡献者指南](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [行为准则](../code-of-conduct/)
 
-作为维护者，这些组件将帮助你交流你的期望，管理贡献并保护每个人的合法权益（也包括您自己的）。他们能够大大增加你积极体验的机会。
+作为维护者，这些文档可以帮助你指导他人，引导他人，表达你的期望，管理贡献并保护每个人的合法权益（也包括你自己的）。它们能够大大增加项目成功的机会。
 
-如果您的项目在 GitHub 上，则将这些文件放在您的根目录中，并使用推荐的文件名将有助于 GitHub 识别并自动将其显示给读者。
+如果你的项目在 GitHub 上，则将这些文件放在你的根目录中，并使用推荐的文件名将有助于 GitHub 识别并自动将其显示给读者。
 
 ### 选择一个许可证 (license)
 
-开源许可证保证其他人可以使用，复制，修改和贡献给您的项目，而不会产生不良后果。 它也可以保护您免受繁琐的法律影响。**启动开源项目时，请务必包含许可证。**
+开源许可证保证其他人可以使用，复制，修改和贡献给你的项目，而不会产生不良后果。 它也可以保护你免受繁琐的法律影响。**启动开源项目时，请务必包含许可证。**
 
-法律工作是非常无趣的。但好消息是，您可以将现有许可证复制并粘贴到存储库中。只需要花这么一点时间，就能保护你的辛苦工作。
+法律工作是非常无趣的。但好消息是，你可以将现有许可证复制并粘贴到存储库中。只需要花这么一点时间，就能保护你的辛苦工作。
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),  和 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 都是非常流行的开源许可证， 但你可以选择[其他选项](https://choosealicense.com).
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),  和 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 都是非常流行的开源许可证， 但你可以选择[其它的许可协议](https://choosealicense.com).
 
-当你在GitHub上创建新项目时，你可以选择许可证。包括开源许可证将使你的GitHub项目成为开源。
+当你在GitHub上创建新项目时，你可以选择许可证。包括开源许可证将使你的 GitHub 项目成为开源。
 
-![挑选一个许可证](/assets/images/starting-a-project/repository-license-picker.png)
+![挑选一个许可证](https://opensource.guide/assets/images/starting-a-project/repository-license-picker.png)
 
-如果您在管理开放源码项目的法律方面有其他问题或疑虑，我们已经[在这里](../legal/)介绍了。
+如果你在管理开放源码项目的法律方面有其他问题或疑虑，本指南也专门针对[法律部分](../legal/)做了介绍。
 
 ### 编写自述文件 (README)
 
 自述文件不仅仅是用于说明如何使用你的项目。他们还可以解释你的项目为什么重要，以及它可以为你的用户做什么。
 
-在您的自述文件中，尝试回答以下问题：
+在你的自述文件中，尝试回答以下问题：
 
 * 这个项目做什么？
-* 为什么这个项目有用？
+* 此项目解决了什么问题？
 * 如何开始？
 * 如果需要，我可以在哪里获得更多的帮助？
 
-您可以使用自己的README回答其他问题，例如处理贡献，项目的目标以及许可证和归属信息。 如果您不想接受他人的贡献，或者您的项目尚未准备好作为产品提供使用，请将这些信息写下来。
+你可以使用自己的 README 回答其他问题，例如贡献流程、项目目标以及许可证和归属信息等等。 如果你不想接受他人的贡献，或者你的项目尚未准备好作为产品提供使用，那么也请将这些信息写下来。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/168572?v=3&s=460" class="pquote-avatar" alt="avatar">
-更好的文档意味着更多的用户，更少的求助和更多的贡献者，等等。要记住你的读者不是你自己。来到项目中的每个人可能有着截然不同的经历。
+更好的文档意味着更多的用户，更少的求助和更多的贡献者等等。要记住，你的读者不是你自己！来到项目中的每个人可能有着截然不同的经历。
   <p markdown="1" class="pquote-credit">
-— @limedaring, ["这样写给他人看（视频）"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+— @limedaring, ["写好给他人看的文档（视频）"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
 </aside>
 
@@ -169,19 +169,19 @@ image: /assets/images/cards/beginner.png
 
 ### 编写你的贡献指南
 
-贡献文件 (CONTRIBUTING file) 告诉你的受众如何参与你的项目. 例如，你可以包括一下信息:
+贡献指南，内容就是是告诉你的受众如何参与你的项目。例如，你可以照以下内容来撰写：
 
 * 如何提交错误报告（尝试使用[issue 和 pull request 模板](https://github.com/blog/2111-issue-and-pull-request-templates)）
 * 如何建议一个新功能
 * 如何配置你的环境和运行测试
 
-除了技术细节， 贡献文件也是一个供你传达对贡献期待的机会， 例如：
+除了技术细节， 贡献指南也是一个供你传达对贡献者期待的机会， 例如：
 
-* 你在寻求的贡献类型
+* 你所寻求的贡献者类型
 * 你项目的路线图或者版本
 * 贡献者应该（或者不应该）如何与你取得联系
 
-温柔友好的逾期和向贡献者们提供具体的建议（例如写文档或者搭建一个网页）能够有效地使新人感到受欢迎并乐于参与其中。
+温柔友好的逾期和向贡献者们提供具体的建议（例如写文档或者搭建一个网页）能够有效地使新人感到受欢迎，并乐于参与其中。
 
 例如，[Active Admin](https://github.com/activeadmin/activeadmin/) 以这样的方式开始[它的贡献指南](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)：
 
@@ -189,31 +189,31 @@ image: /assets/images/cards/beginner.png
 
 在你项目开始的初期，你的贡献文件可以很简单。你应该经常解释如何提交错误和文件问题，以及关于如何作出贡献的技术问题（例如测试）。
 
-随着时间的推移，你硬弓增加其他常见问题到你的贡献文件中去。写下这些信息意味着问你相同问题的人会越来越少。
+随着时间的推移，你应该增加其他常见问题到你的贡献指南中。写下这些信息也就意味着问你相同问题的人会越来越少。
 
 想要获得更多有关编写贡献文件的方式，请查阅 @nayafia 的 [贡献指南模板](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 或者 @mozilla 的 [“如何构建 CONTRIBUTION.md”](http://mozillascience.github.io/working-open-workshop/contributing/)。
 
-来你的 README 中链接你的 CONTRIBUTING，这样更多人就能看到他。如果你[在你的项目中放入了 CONTRIBUTING 文件](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)，当一个贡献者创建 issue 或者开启一个 pull request 时，GitHub 会自动链接你的文件。
+在 README 中要撰写贡献者指南的链接，这样更多人就能看到他。如果你[在你的项目中放入了贡献者指南](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)，当一个贡献者创建 issue 或者开启一个 pull request 时，GitHub 会自动链接你的文件。
 
-![贡献指南](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![贡献指南](https://opensource.guide/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
-### 建立行为规范
+### 建立行为守则
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/11214?v=3&s=460" class="pquote-avatar" alt="avatar">
-  我们都有过这样的关于重复劳动的经验，无论是维护者试着解释为什么某些事物必须通过某种明确的方式执行，或者是用户...提出一个简单的问题。行为规范成为一个便利的参考和可链接的文档标明你的团队会认真对待具有建设性的讨论。
+  我们都有过这样的关于重复劳动的经验，无论是维护者试着解释为什么某些事物必须通过某种明确的方式执行，或者是用户...提出一个简单的问题。行为守则成为一个便利的参考和可链接的文档标明你的团队会认真对待具有建设性的讨论。
   <p markdown="1" class="pquote-credit">
 — @mlynch, [“让开源成为一个有趣的地方”](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
 </aside>
 
-最后，行为规范有助于为你项目的参与者车里行为规则。这在你为社区或者项目推出一个开源项目的时候尤为有价值。一份行为帮助你促进健康，有建设性的社区行为，这也会减轻你作为维护者的压力。
+毕竟，行为守则是有助于为你项目的参与者提供一个整体规范和约束的。这在你为社区或公司推出开源项目时尤其凸显它的价值。一份行为守则可以帮助促进社区的健康发展，拥有建设性的社区行为，会大大减轻你作为维护者的压力。
 
-更多信息，请参见 [行为规范指导](../code-of-conduct/)。
+更多信息，请参见 [行为守则指导](../code-of-conduct/)。
 
-除了传达你期待参与者**如何**行动，行为规范也倾向于描述这些期待针对谁，适用于何时，以及对于违规行为的处理方法。
+除了传达你期待参与者**如何**行动，行为守则也倾向于描述这些期待针对谁，适用于何时，以及对于违规行为的处理方法。
 
-就像开源许可证一样，有现成的行为规范，所以你不必自己编写。[贡献者公约](http://contributor-covenant.org/)是一个行之有效的行为规范，已经被用在[超过4000个开源项目](http://contributor-covenant.org/adopters/)，包括 Kubernetes，Rails，以及 Swift。无论你使用哪一种，你都应该准备好在必要时执行行为规范。
+就像开源许可证一样，有现成的行为守则，所以你不必自己编写。[贡献者公约](http://contributor-covenant.org/)是一个行之有效的行为守则，已经被用在[超过4000个开源项目](http://contributor-covenant.org/adopters/)，包括 Kubernetes，Rails，以及 Swift。无论你使用哪一种，你都应该准备好在必要时执行行为守则。
 
 将文本直接粘贴到项目存储库中的 CODE_OF_CONDUCT 文件中。将文件保存在项目的根目录中，以便轻松找到，并从 README 中链接到它。
 
@@ -246,7 +246,7 @@ image: /assets/images/cards/beginner.png
 
 ### 你的写作（和代码）如何影响你的品牌
 
-在项目的整个生命周期中，你需要做很多文字工作：READMEs，教程，社区文档，回复issues，甚至肯能要处理很多来信和邮件。
+在项目的整个生命周期中，你需要做很多文字工作：README，教程，社区文档，回复 issue，以及处理很多的邮件列表。
 
 是否是官方文档或者一封普通的邮件，你的书写风格都是你项目品牌的一部分。考虑你可能会拥有粉丝，以及这是你想传达的声音。
 
@@ -258,22 +258,22 @@ image: /assets/images/cards/beginner.png
   </p>
 </aside>
 
-使用热情，通俗易懂的语言（如“他们”，即使是指一个人）能够让新来的贡献者感觉项目非常欢迎他们。使用简单的语言，因为你的读者可能英语不是很好。
+使用热情，通俗易懂的语言（如“他们”，即使是指一个人）能够让新来的贡献者感觉项目非常欢迎他们。使用简单的语言，因为你的读者可能英语水平一般。
 
-除了书写风格外，你的编码风格也是你项目品牌的一部分。 [Angular](https://github.com/johnpapa/angular-styleguide) 和 [jQuery](http://contribute.jquery.org/style-guide/js/)是两个项目代码风格严谨的示例和指南。
+除了书写风格外，你的编码风格也是你项目品牌的一部分。 [Angular](https://github.com/johnpapa/angular-styleguide) 和 [jQuery](http://contribute.jquery.org/style-guide/js/) 这两个项目的代码风格均是不错的示例和向导。
 
-当你的项目才开始时，没有必要为项目编写一份风格指南。你可能会发现你喜欢将不同的编码风格融入到项目。但是你应该想到你的书写和编码风格会吸引或者拒绝不同类型的人。项目的早期是你建立你希望看见的先例的机会。
+当你的项目才开始时，没有必要为项目编写一份风格指南。你可能会发现你喜欢将不同的编码风格融入到项目。但是你应该想到你的书写和编码风格会吸引或者拒绝不同类型的人。项目的早期是你建立你希望预见先例的机会。
 
 ## 发起项目之前的检查项
 
-准备好开源你的项目了吗？有一份帮助检查清单。检查所有内容？你准备开始吧！ [点击 "publish"](https://help.github.com/articles/making-a-private-repository-public/) 以及拍下自己的后背。
+准备好开源你的项目了吗？有一份帮助检查清单。检查所有内容？你准备开始吧！ [点击 "publish"](https://help.github.com/articles/making-a-private-repository-public/) ，然后保持内心平和。
 
 **文档**
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    需要为项目指定一个开源协议
+    需要为项目选择一个开源许可证
   </label>
 </div>
 
@@ -294,7 +294,7 @@ image: /assets/images/cards/beginner.png
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    最新的issue队列，组织和标记清除的issues
+    最新的 issue 队列，组织和标记清楚的 issue
   </label>
 </div>
 
@@ -310,14 +310,14 @@ image: /assets/images/cards/beginner.png
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    注释清晰的代码，记录意图和边缘案例
+    注释清晰的代码，记录意图和极端情况
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    在修改历史，issues或者 pull requests 中没有敏感的信息 (例如 密码或者其他不能公开的信息)
+    在修改历史、issue 或者 pull request 中没有敏感的信息 (例如 密码或者其他不能公开的信息)
   </label>
 </div>
 
@@ -364,6 +364,4 @@ image: /assets/images/cards/beginner.png
 
 ## 你做到了！
 
-恭喜你开源了你的首个项目。不论结果如何，对开源社区都是一份礼物。随着每次commit,comment和pull request，你正在为自己或者他人创造学习和成长的机会。
-
-
+恭喜你开源了你的首个项目。不论结果如何，对开源社区都是一份礼物。随着每次commit,comment和pull request，**你正在为自己或者他人创造学习和成长的机会**!
