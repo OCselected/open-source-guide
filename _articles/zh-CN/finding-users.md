@@ -91,18 +91,18 @@ image: /assets/images/cards/finding.png
 如果没有人对你的推广感兴趣，不要灰心！大部分的项目的开展都是一个要花费数月和数年的反复过程。如果你第一次没收到反应，尝试换一种策略，或者找办法给别人的项目做做贡献。这都是些需要时间和奉献精神的事情。
 
 
-## 到你项目受众在的地方去（线下）
+## 到你项目受众的大本营去（线下）
 
 
 ![public speaking](https://opensource.guide/assets/images/finding-users/public_speaking.jpg)
 
 线下活动是一个推广项目流行的方式。这是一个接触某个忠实听众和建立深层次的联系的好方式，特别是如果你对到场的开发者感兴趣的话。
 
-如果你还是个[公中演讲的新手](http://speaking.io/)，从寻找一个和你项目使用的语言或者生态系统相关的当地的聚会开始吧。
+如果你还是个[公开演讲的新手](http://speaking.io/)，从寻找一个和你项目使用的语言或者生态系统相关的当地的聚会开始吧。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/83444?v=3&s=460" class="pquote-avatar" alt="avatar">
-  我去Pycon的时候非常紧张。我要发表一个演讲，在那儿我就认识几个人，还在那儿呆了整个周。但是其实我不应该焦虑的。Pycon真是太他妈吊了！每个人都是超级友好外向，以至于我没有找到时间和人们讲话。
+  我去Pycon的时候非常紧张。我要发表一个演讲，在那儿我就认识几个人，还在那儿呆了整个周。但是其实我不应该焦虑的。Pycon 的组织活动非常的棒！每个人都是超级友好热情的，以至于我没有找到时间和人们讲话。
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
@@ -124,40 +124,40 @@ image: /assets/images/cards/finding.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/80?v=3&s=460" class="pquote-avatar" alt="avatar">
-  我非常认真的给JSConf的人写了一封信，然后求他们给我一点时间让我JSConf上展示我的项目。同时我又非常担心，这个项目我做了六个月，要是大家不认可怎么办。那时候我就一直在想，我的天，我他妈在这里是干吗？
+  我非常认真的给JSConf的人写了一封信，然后求他们给我一点时间让我JSConf上展示我的项目。同时我又非常担心，这个项目我做了六个月，要是大家不认可怎么办。那时候我就一直在怀疑自己，我的天，我究竟是在这里干吗？
   <p markdown="1" class="pquote-credit">
-— @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
+— @ry, ["Node.js 的历史" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
 </aside>
 
 ## 赢得口碑
 
-除了上面提到的策略之外，邀请人们分享和支持你的项目的最好办法就是分享和支持他们的项目。
+除了上面提到的策略之外，**邀请人们分享和支持你的项目的最好办法就是同样的分享和支持他们的项目**。
 
 帮助新手，分享资源，给别人的项目认真的做贡献会帮助你建立起良好的声誉。然后他们就很有可能知道你的项目而且更有可能关注和分享你在做的事情。
 
-有时候，这些关系还会进一步发展成更广阔的生态系统中的官方合作伙伴（意思即使你有可能成为那些有名社区的成员）
+有时候，这些关系还会进一步发展成更广阔的生态系统中的官方合作伙伴（意思是你有可能成为那些有名社区的成员）
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/6292?v=3&s=400" class="pquote-avatar" alt="avatar">
-  urllib3之所以是现在最流行的Python第三方库的唯一原因就是大家都需要他。(待修改)
+  urllib3 之所以是现在最流行的 Python 第三方库的唯一原因就是大家都需要他。
   <p markdown="1" class="pquote-credit">
-— @shazow, ["How to make your open source project thrive"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
+— @shazow, ["如何让你的开源项目蓬勃发展"](https://text.sourcegraph.com/how-to-make-your-open-source-project-thrive-with-andrey-petrov-6463b935c540#.mk31f8fgf)
   </p>
 </aside>
 
-种一棵树最好的时候是十年前，其次是现在。所以啥时候开始建立你的声望都不晚。即使是你早就已经建立了自己的项目，还是要继续找办法帮助别人。
+种一棵树最好的时候是十年前，其次是现在。所以啥时候开始建立你的声望都不晚。即使是你早就已经建立了自己的项目，还是要继续想办法帮助他人的。
 
-建立用户群没有一蹴而就的方法。获取别人的新人和尊重需要时间，同样，建立声望的过程也永远不会停止。
+建立用户群没有一蹴而就的方法。获取别人的信任和尊重需要一定的时间，同样，建立声望的过程也要持之以恒。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/7288?v=3&s=460" class="pquote-avatar" alt="avatar">
-  PhantomJS公开第一个版本的时候实在2011年初。我也就是用一些常规的方法来推广：发Twitter，写博客告诉别人可以用它来做什么，在各种各样的聚会上我都提到过它。当2014年他已经广为人知的时候。我才开始做关于它的演讲。
+  PhantomJS 公开第一个版本的时候实在2011年初。我也就是用一些常规的方法来推广：发Twitter，写博客告诉别人可以用它来做什么，在各种各样的聚会上我都提到过它。当2014年他已经广为人知的时候。我才开始做关于它的演讲。
   <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
+— @ariya, ["一位开源项目维护者的故事"](https://github.com/open-source/stories/ariya)
   </p>
 </aside>
 
 ## 保持精进
 
-有时候，让人么注意你的开源项目会话费很多事件。但是关系！现在很多流行的项目都是花了很多年才有今天的活跃度。把重点放在建立声望上而不是企图一夜成名。耐心一点，一如既往的和那些可能会从中受益的人们分享你的项目。
+有时候，时间过去了很久，人们才逐渐的关注你的项目。那也 OK 啊！其实现在很多流行的项目都是花了很多年才有今天的活跃状况的。把重点放在建立声望上而不是企图一夜成名。耐心一点，一如既往的和那些可能会从中受益的人们分享你的项目。
