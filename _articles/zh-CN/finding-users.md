@@ -16,28 +16,28 @@ image: /assets/images/cards/finding.png
 
 ## 四处传播
 
-还没有规定说应该怎么去倡导刚创建的开源项目。但没有任何理由说必须默默无闻的在开源项目上工作。相反，如果你向有更多的人发现和使用你的开源项目，你就应该让所有人知道你所努力的成果！
+目前为止，对于新创建的开源项目，还没有什么推广的固定的套路。但也没有任何理由说，开源项目就是必须默默无闻的。相反，如果你想有更多的人去发现并使用你的开源项目，你应该让更多的人知道你的努力以及所能解决的问题！
 
 ## 发出自己的声音
 
-在你开始推广你的项目之前，你应该能够解释你的项目是做什么的，为什么大家需要他?
+在你开始推广你的项目之前，你应该解释你的项目是做什么的，为什么大家需要他?
 
-是什么让你的项目变得不同或者有趣，在自己心中问这些问题会让你更容易说服别人。
+是什么让你的项目变得不同或者有趣，在自己心中问这些问题，会让你更容易说服别人。
 
-牢记一件事情，别人之所以使用你的项目，甚至是为你的项目做贡献，是因为你的项目解决了他们的问题。所以你要找出他们需要什么，然后把他当成你项目的卖点或者说价值所在。
+请牢记一件事情，别人之所以使用你的项目，甚至是为你的项目做贡献，是因为你的项目解决了他们的问题。所以你要找出他们需要什么，然后把它当成你项目的卖点或者说价值所在。
 
 举个例子，[@robb](https://github.com/robb)用代码实例来清晰的阐述为什么他的项目[Cartography](https://github.com/robb/Cartography)是有用的。
 
 ![cartography readme](https://opensource.guide/assets/images/finding-users/cartography.jpg)
 
-如果你想深入了解如何挖掘项目的“卖点”，看一下Mozilla的["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/)，练习如何建立用户的形象。
+如果你想深入了解如何挖掘项目的“卖点”，看一下Mozilla的["角色和路径"](http://mozillascience.github.io/working-open-workshop/personas_pathways/)，练习如何建立用户的形象。
 
 ## 帮助人们找到并关注你的项目
 
 <aside markdown="1" class="pquote">
   你最好有一个唯一的“主页”链接用来推广，引导人们关注你的项目。你不需要找一个炫酷的模板或者域名，但是你的项目确实需要一个入口。
   <p markdown="1" class="pquote-credit">
-— Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+— Peter Cooper & Robert Nyman, ["如果将代码转换为口语进行传播"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
@@ -51,7 +51,7 @@ image: /assets/images/cards/finding.png
   <img src="https://avatars2.githubusercontent.com/u/131416?v=3&s=400" class="pquote-avatar" alt="avatar">
   我之前犯过的一个错误就是没有给项目开一个Twitter账户。Twitter是一个让人们知晓项目进展的好渠道，也可以让人们持续的接触到你的项目。
   <p markdown="1" class="pquote-credit">
-— @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+— @nathanmarz, ["Apache Storm 的历史教训"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
@@ -76,7 +76,7 @@ image: /assets/images/cards/finding.png
   <img src="https://avatars1.githubusercontent.com/u/169328?v=3&s=400" class="pquote-avatar" alt="avatar">
   每个程序都会有那么一些方法只有一部分人才会用到，所以不要想着去打扰每一个人，把你的力气用在可能会从你项目受益的社区就好。
   <p markdown="1" class="pquote-credit">
-— @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+— @pazdera, ["为开源项目做市场"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
@@ -104,7 +104,7 @@ image: /assets/images/cards/finding.png
   <img src="https://avatars0.githubusercontent.com/u/83444?v=3&s=460" class="pquote-avatar" alt="avatar">
   我去Pycon的时候非常紧张。我要发表一个演讲，在那儿我就认识几个人，还在那儿呆了整个周。但是其实我不应该焦虑的。Pycon 的组织活动非常的棒！每个人都是超级友好热情的，以至于我没有找到时间和人们讲话。
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["从不在担心到真心喜欢——我是如何在PyCon中学习的"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
@@ -116,7 +116,7 @@ image: /assets/images/cards/finding.png
   <img src="https://opensource.guide/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   当你开始写你的演讲稿的时候，不管你的主题是什么，如果你能把你的演讲当成是给别人讲故事的话，效果会更更好。
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["如何准备和撰写技术演讲稿"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
@@ -160,4 +160,4 @@ image: /assets/images/cards/finding.png
 
 ## 保持精进
 
-有时候，时间过去了很久，人们才逐渐的关注你的项目。那也 OK 啊！其实现在很多流行的项目都是花了很多年才有今天的活跃状况的。把重点放在建立声望上而不是企图一夜成名。耐心一点，一如既往的和那些可能会从中受益的人们分享你的项目。
+有时候，时间过去了很久，人们才会逐渐关注你的项目。那也 OK 啊！**其实现在很多流行的项目都是花了很多年才有今天的活跃状况的。把重点放在建立声望上而不是企图一夜成名。耐心一点，一如既往的和那些可能会从中受益的人们分享你的项目。**
