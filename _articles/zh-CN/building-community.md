@@ -136,7 +136,7 @@ image: /assets/images/cards/building.png
 
 在 CONTRIBUTING 文件里，需要明确告诉新来的贡献者该如何开始。而且若是可能为了想要达到这个目的，还需要准备一个专门的部分。
 
-![django new contributors page](https://github.com/cnbo/open-source-guide/blob/gh-pages/assets/images/building-community/django_new_contributors.png)
+![django new contributors page](https://opensource.guide/assets/images/building-community/django_new_contributors.png)
 
 在issue列表中，缺陷的标签需要做到适合不同类型的贡献者：例如，[_"仅供入门者"_](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.g1k01jy05), _"优质Bug首秀"_, 或者 _"文档"_. [这些标签](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能够帮助新人快速浏览 issues 并快速上手。
 
@@ -164,7 +164,7 @@ image: /assets/images/cards/building.png
 
 * **不要亲自去修复简单（非关键）的缺陷。** 相反，将这些缺陷作为招募新贡献者的工具，或者指导想要参与贡献的人。开始时可能效果不是很理想，但经过一段时间你们会得到想要的结果。例如，@michaeljoseph要求一位贡献者提交一个PR在一个[Cookiecutter](https://github.com/audreyr/cookiecutter) issue的下面，而不是自己修复它。
 
-![cookiecutter issue](https://github.com/cnbo/open-source-guide/blob/gh-pages/assets/images/building-community/cookiecutter_submit_pr.png)
+![cookiecutter issue](https://opensource.guide/assets/images/building-community/cookiecutter_submit_pr.png)
 
 * **在项目中添加一个贡献者或者作者文件** 用于记录每一个参与贡献的人。
 
