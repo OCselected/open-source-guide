@@ -1,7 +1,7 @@
 ---
 locale: zh-CN
 title: 领导力和治理
-description: 决策有了较正式的规则，可让开源项目野蛮生长。
+description: 制定决策有了较为正式的规则，可让开源项目野蛮生长。
 class: leadership
 toc:
   what-are-examples-of-formal-roles-used-in-open-source-projects: "开源项目中通常都有那些角色？"
@@ -17,7 +17,7 @@ image: /assets/images/cards/leadership.png
 
 ## 针对增长的项目来理解治理
 
-当项目开始有条不紊的进行，人员也开始稳定，那么你就应该开始社区的治理了。对于社区的治理，你或许有一些疑问，诸如如何将常规项目的贡献者纳入你的工作流？如何才能判断应该赋予谁提交的权限？又或者是如何解决社区的债务？如果你对这些有疑问的话，我们这里会尽力帮你解决。
+当项目开始有条不紊的进行，人员也开始稳定，那么你就应该开始着手社区的治理了。对于社区的治理，你或许有一些疑问，诸如如何将常规项目的贡献者纳入社区的工作流程？如何才能判断应该赋予谁提交的权限？又或者是如何解决社区的债务？如果你对这些有疑问的话，开源指南会尽力帮你解决。
 
 ## 开源项目中通常都有那些角色？
 
@@ -29,11 +29,11 @@ image: /assets/images/cards/leadership.png
 * **贡献者**
 * **修订者**
 
-**对于某些项目来说， "维护者"** 就是唯一拥有提交权限的人。然而在其它的一些项目中， they're simply the people who are listed in the README as maintainers.
+**对于某些项目来说， "维护者"** 就是唯一拥有提交权限的人。然而在其它的一些项目中， 他们也就是那些在 README 文件中所列出来的维护者。
 
 作为一名维护者，不一定非得一定要为项目撰写代码。Ta有可能是项目的布道师，为项目的宣传做了很多的工作，又或者是撰写文档让更多的人参与进来。不管他们每天做什么，维护者就是那些对项目方向负责的人，并致力于项目的改进。
 
-**作为 "贡献者" 可以是任何人** ，只要Ta提出issue或PR 就叫做贡献者，那些为项目作出有价值的都算（无论是分类问题，编写代码还是组织会议），又或者是将他们的PR合并进主干的（或许这个定义是最接近所谓的贡献者的）。
+**作为 "贡献者" 可以是任何人** ，只要Ta提出 issue 或 PR 就叫做贡献者，那些为项目作出有价值的都算（无论是分类问题，编写代码还是组织会议），又或者是将他们的PR合并进主干的（或许这个定义是最接近所谓的贡献者的）。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/579?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -45,7 +45,7 @@ image: /assets/images/cards/leadership.png
 
 **术语 "修订者"** 可能用于区分其他形式的贡献的提交访问，这是一种特定类型的责任。
 
-其实你可以根据自己喜欢的方式来定义项目的角色，[考虑使用更广泛的定义](../how-to-contribute/#what-it-means-to-contribute) 来鼓励更多的形式的贡献。无论技术技能如何，您都可以使用领导角色来正式识别为您的项目做出突出贡献的人员。
+其实你可以根据自己喜欢的方式来定义项目的角色，[考虑使用更广泛的定义](../how-to-contribute/#what-it-means-to-contribute) 来鼓励更多的形式的贡献。无论他人的技术技能如何，你都可以使用领导角色去正儿八经识别那些为项目做出突出贡献的人。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/21148?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -66,7 +66,7 @@ image: /assets/images/cards/leadership.png
 如果你的项目拥有非常活跃的贡献者社区，你或许会专门建立一个维护者的“核心团队”，甚至是根据不同的话题所有者成立子的委员会（例如，安全，问题筛选，或者是社区准则）。让人们自行组织、且能够让志愿者自行找到自己喜欢的角色，而不是去分配他们。
 
 <aside markdown="1" class="pquote">
-  \[我们\] 为核心团队设立多个“子团队”。每个子团队都会专门的聚焦于某个特定的领域，举例来说，语言设计或程序库(...) 为了确保全局的协调和健壮，会将整体的项目设置为同一个愿景，每个子团队是由核心团队的一员。
+  \[我们\] 为核心团队设立多个“子团队”。每个子团队都会专门的聚焦于某个特定的领域，举例来说，语言设计或程序库(...) 为了确保全局的协调和健壮，会将整体的项目设置为同一个愿景，每个子团队都由核心团队的成员来领导。
   <p markdown="1" class="pquote-credit">
 — ["Rust 治理 RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
   </p>
@@ -79,7 +79,7 @@ image: /assets/images/cards/leadership.png
 
 诸如[Vossibility](https://github.com/icecrime/vossibility-stack) 这样的工具，可以帮助你追踪谁是（或不是）项目的贡献者。为这些信息作说明，以避免社区出现维护者作出私自的决定。
 
-另外，如果你的项目在托管在GitHub上，考虑将你的项目从个人账户迁移到某个组织，而且要为组织增加额外的一个备份的管理员。
+另外，如果你的项目在托管在 GitHub 上，考虑将你的项目从个人账户迁移到某个组织，而且要为组织增加额外的一个备份的管理员。
 [GitHub 上的组织](https://help.github.com/articles/creating-a-new-organization-account/) 能够让权限管理和多仓库管理更加的轻松，而且可通过 [共享所有权](../building-community/#share-ownership-of-your-project)来保护你的项目。
 
 ## 何时该赋予提交者权限？
@@ -88,11 +88,11 @@ image: /assets/images/cards/leadership.png
 
 换句话说，尤其是针对那些大型的、更加复杂的项目，你或许只是会给那些证明自己有能力提交代码的人赋予权限。这个没有一个确切的衡量标准，做你认为正确的就好了，或者是最让项目成员感到舒服的方式。
 
-假如项目是托管在GitHub上，可以使用[受保护的分支](https://help.github.com/articles/about-protected-branches/)来管理那些可以提交特定的分支情况。
+假如项目是托管在 GitHub 上，可以使用[受保护的分支](https://help.github.com/articles/about-protected-branches/)来管理那些可以提交特定的分支情况。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/15000?v=3&s=460" class="pquote-avatar" alt="avatar">
-  无论什么时候，都会有人向你发送pull request，所以将你的项目开放提交访问。这看起来是有些不够明智，使用此策略能让你释放GitHub的真正威力。(...)一旦人们拥有了提交访问权,他们不再担心他们的补丁可能不会被合并.....这会让他们做的更多。
+  无论什么时候，都会有人向你发送pull request，所以将你的项目开放提交访问。这看起来是有些不够明智，使用此策略能让你释放 GitHub 的真正威力。(...)一旦人们拥有了提交访问权,他们不再担心他们的补丁可能不会被合并.....这会让他们做的更多。
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
@@ -104,7 +104,7 @@ image: /assets/images/cards/leadership.png
 
 * **BDFL:** BDFL 是 "仁慈的独裁者生活" 的缩写. 在此结构下，有一个人（通常是项目的最初的作者）拥有项目中所有的最后决定权。[Python](https://github.com/python) 就是一个非常经典的例子。较小的项目可能默认就是 BDFL 结构，因为他一般就是一到两位维护者。若是公司组织的项目也极有可能会采用BDFL结构。
 
-* **精英制:** **(注: 术语 "精英制" 对于一些社群可能具有消极的含义，其拥有较[复杂的社会和政治的历史](http://geekfeminism.wikia.com/wiki/Meritocracy).)** 在精英制下，活跃的项目贡献者（他们用行动证明自己是“精英”）给一个正式的决策作用，决定通常会基于纯粹的投票一致性。精英制的概念首次由[Apache Foundation](http://www.apache.org/)提出；[所有的Apache 项目](http://www.apache.org/index.html#projects-list) 都是基于精英制的。贡献者只能代表自己是独立的个体，不可以是公司。
+* **精英制:** **(注: 术语 "精英制" 对于一些社群可能具有消极的含义，其拥有较[复杂的社会和政治的历史](http://geekfeminism.wikia.com/wiki/Meritocracy).)** 在精英制下，活跃的项目贡献者（他们用行动证明自己是“精英”）给一个正式的决策作用，决定通常会基于纯粹的投票一致性。精英制的概念首次由[Apache Foundation](http://www.apache.org/)提出，[所有的Apache 项目](http://www.apache.org/index.html#projects-list) 都是基于精英制的。贡献者只能代表自己是独立的个体，不可以是公司。
 
 * **自由贡献:** 在自由贡献的模式下，做最多工作的人通常被认为是最具影响力的，但是是基于当前的工作，而不是历史的共享。项目的重大决策是基于寻求共识的过程（对不同的声音要讨论）而不是纯粹的投票，尽可能的努力的去囊括多的社区观点。较流行的使用自由贡献模式的项目有[Node.js](https://nodejs.org/en/foundation/) 和 [Rust](https://www.rust-lang.org/en-US/)。
 
@@ -116,7 +116,7 @@ image: /assets/images/cards/leadership.png
 
 ## 当我创建开源项目时，需要专门撰写一份治理文档吗？
 
-其实没有什么合适的时间来撰写项目的治理，但是可以根据社区的动态来进行恰当的定义。开源治理最好的也是最难的部分是有社区本身来塑造！
+其实没有什么合适的时间来撰写项目的治理，但是可以根据社区的动态来进行恰当的定义。开源治理最好的也是最难的部分是由社区本身来塑造！
 
 在项目的治理中，一些早期的文档将会不可避免的，然而也不必太强求，写下你所能够想到的。举例来说，你可以将某些预期的行为定义清楚，贡献的流程是如何的，或者项目是如何启动的，等等。
 
@@ -124,16 +124,15 @@ image: /assets/images/cards/leadership.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/691109?v=3&s=460" class="pquote-avatar" alt="avatar">
-  我们在GitHub上赋予一些小的团队来管理项目，实际上这些人都是在Facebook工作的，比如，React就是由React的工程师来掌管运行的。
+  我们在 GitHub 上赋予一些小的团队来管理项目，实际上这些人都是在 Facebook 工作的，比如，React 项目就是由React的工程师来掌管运行的。
   <p markdown="1" class="pquote-credit">
-— @caabernathy, ["Facebook内部员工如何看待开源"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
+— @caabernathy, ["Facebook 内部员工如何看待开源"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
 </aside>
 
 ## 公司员工该如何开启提交贡献之旅？
 
-成功的开源项目，会有很多的用户和公司使用，而且有一些公司的主要收入和项目是绑在一起的。举例来说，某公司在其商业产品或服务中使用了开源项目的代码作为其一个组件。
-
+成功的开源项目，会有很多的用户和公司使用，而且有一些公司的主要收入是和项目绑在一起的。举例来说，某公司在其商业产品或服务中使用了开源项目的代码作为其一个组件。
 
 一个项目越是被广泛的使用，有相关背景的专业人士的需求就会上升，**你或许就是其中之一**，那么就顺势成为继续为开源项目做事，还有一定的报酬。
 
@@ -141,7 +140,7 @@ image: /assets/images/cards/leadership.png
 
 “商业” 是完全和“开源”相容的。“商业”仅仅是意味着某些地方有钱的参与 —— 就是说软件被用于了商业行为，也就是说项目被采用获得了认可。（当开源软件被用于非开源产品的一个部分时，这个整体的产品仍然是“专有的”软件，因为开源，它可以用于商业或非商业的目的。）
 
-和这个世界上很多的其它商业产品一样，商业能够激励开发者去积极的贡献于项目，通过他们靠谱的提交贡献。显而易见的是，一位因花了自己的时间和精力的开发者获得报酬，理应比没有获得报酬的更具持久性，当然，这对于某些圣徒是不成立的，或者这么说吧，报酬是能体现一个贡献度的众多衡量因素的其中之一。所以将你的项目讨论聚焦于贡献上，不要让人们分散精力去思考或做其它的事情。
+和这个世界上很多的其它商业产品一样，商业能够激励开发者去积极的贡献于项目，通过他们靠谱的提交贡献。显而易见的是，一位因花了自己的时间和精力的开发者获得报酬，理应比没有获得报酬的更具持久性，当然，这对于某些圣徒是不成立的，或者这么说吧，报酬是能体现一个贡献度的众多衡量因素的其中之一。**所以将你的项目讨论聚焦于贡献上，不要让人们分散精力去思考或做其它的事情。**
 
 ## 我是否需要一个法律实体来支持我的项目?
 
@@ -149,7 +148,7 @@ image: /assets/images/cards/leadership.png
 
 举例来说，假如你打算创办自己的商业公司，（假如是在美国的话）你需要成立一家集团公司或有限责任公司。如果你只是为你的开源项目做一些合约的工作，你可以以投资人的身份接受钱财，或者成立一家有限责任公司（如果是在美国的话）。
 
-如果你打算让自己的开源项目接受捐赠的话，你可以创建一个捐赠按钮（使用PayPal或Stripe，举例来说），但是你要知道，这些钱并非是免税的，除非你是认证过的非盈利性组织（在美国的话，诸如501c3）。
+如果你打算让自己的开源项目接受捐赠的话，你可以创建一个捐赠按钮（使用 PayPal 或 Stripe，举例来说），但是你要知道，这些钱并非是免税的，除非你是认证过的非盈利性组织（在美国的话，诸如501c3）。
 
 很多项目都不愿意成立非盈利组织那么麻烦，所以他们会以赞助商的身份寻找一个非营利性组织。财政资助代表你接受捐款,通常以换取一定比例的捐赠。针对开源项目接受财政资助的非营利性组织有很多，如[Software Freedom Conservancy](https://sfconservancy.org/), [Apache 基金会](http://www.apache.org/), [Eclipse 基金会](https://eclipse.org/org/foundation/), [Linux 基金会](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) 等等。
 
@@ -161,4 +160,4 @@ image: /assets/images/cards/leadership.png
   </p>
 </aside>
 
-如果你的项目是和某特定的语言或生态系统紧密相连的，那么你可以直接在相关的软件基金会下工作。例如，[Python 软件基金会](https://www.python.org/psf/) 就帮衬着项目 [PyPI](https://pypi.python.org/pypi)，这是一块优秀的Python包管理器，又比如[Node.js 基金会](https://nodejs.org/en/foundation/) 支撑着 [Express.js](http://expressjs.com/)，一款基于Node的框架。
+如果你的项目是和某特定的语言或生态系统紧密相连的，那么你可以直接在相关的软件基金会下工作。例如，[Python 软件基金会](https://www.python.org/psf/) 就帮衬着项目 [PyPI](https://pypi.python.org/pypi)，这是一款优秀的 Python 包管理器，又比如[Node.js 基金会](https://nodejs.org/en/foundation/) 支撑着 [Express.js](http://expressjs.com/)，一款基于 Node 的框架。
